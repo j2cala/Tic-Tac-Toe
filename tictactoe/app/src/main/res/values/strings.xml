@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="un_jugador">1 player</string>
+    <string name="dos_jugadores">2 players</string>
+    <string name="facil">Easy</string>
+    <string name="normal">Average</string>
+    <string name="imposible">Impossible</string>
+    <string name="casilla">Tile</string>
+    <string name="circulos">Circles win!</string>
+    <string name="aspas">Crosses win!</string>
+    <string name="empate">It is a tie!</string>
+</resources>
